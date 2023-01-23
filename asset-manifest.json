@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ElmMovieApp/static/css/main.29b5eeae.css",
+    "main.js": "/ElmMovieApp/static/js/main.6f6e989b.js",
+    "static/media/etoile.png": "/ElmMovieApp/static/media/etoile.d0cbd94e0a4a62fc2bf4.png",
+    "static/media/anonymous.jpg": "/ElmMovieApp/static/media/anonymous.7f8c83533bd32c817857.jpg",
+    "index.html": "/ElmMovieApp/index.html",
+    "main.29b5eeae.css.map": "/ElmMovieApp/static/css/main.29b5eeae.css.map",
+    "main.6f6e989b.js.map": "/ElmMovieApp/static/js/main.6f6e989b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.29b5eeae.css",
+    "static/js/main.6f6e989b.js"
+  ]
+}
